@@ -490,4 +490,4 @@ Reversed Z의 또 다른 장점은 **무한 far plane**을 쓸 수 있다는 것
 
 부동소수점은 완벽한 시스템이 아니다. 유한한 비트로 무한한 실수를 표현하려는 시도이니, 근본적인 한계는 피할 수 없다. 하지만 그 한계가 **어디에, 어떤 형태로** 존재하는지 정확히 아는 것과 모르는 것의 차이는 크다. 이 글이 그 지도를 읽는 데 도움이 됐으면 한다.
 
-![Image](files/preview_puppy.jpg "Puppy")
+![Image](/files/preview_puppy.jpg "Puppy")
