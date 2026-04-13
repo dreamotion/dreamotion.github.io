@@ -1,0 +1,11 @@
+title: Dreamotion Blog
+description: Dreamotion Blog
+baseurl: ""
+url: "https://dreamotion.github.io"
+
+# 빌드 설정
+markdown: kramdown
+theme: minima
+
+# 포스트 퍼머링크
+permalink: /:year/:month/:day/:title/
